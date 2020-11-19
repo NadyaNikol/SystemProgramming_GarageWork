@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcBUInYdUEkR5Nhy5QapDaMVoWypp89uTmG6NlvSlLZr5MtMLeXRayDM5UihKwYavrnFF8+rfiuigu5vBG7JjA==",
+  "success": true,
+  "projectFilePath": "D:\\загрузки\\WFormGarage_1572893605\\WFormGarage\\CarLibrary\\CarLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
